@@ -1,0 +1,9 @@
+c:\users\yuval\documents\visual studio 2015\Projects\ImageService\ImageService.Infrastructure\bin\Debug\ImageService.Infrastructure.dll
+c:\users\yuval\documents\visual studio 2015\Projects\ImageService\ImageService.Infrastructure\bin\Debug\ImageService.Infrastructure.pdb
+c:\users\yuval\documents\visual studio 2015\Projects\ImageService\ImageService.Infrastructure\obj\Debug\ImageService.Infrastructure.dll
+c:\users\yuval\documents\visual studio 2015\Projects\ImageService\ImageService.Infrastructure\obj\Debug\ImageService.Infrastructure.pdb
+C:\Users\eyall\Desktop\ex2final\ImageService\ImageService.Infrastructure\bin\Debug\ImageService.Infrastructure.dll
+C:\Users\eyall\Desktop\ex2final\ImageService\ImageService.Infrastructure\bin\Debug\ImageService.Infrastructure.pdb
+C:\Users\eyall\Desktop\ex2final\ImageService\ImageService.Infrastructure\obj\Debug\ImageService.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\eyall\Desktop\ex2final\ImageService\ImageService.Infrastructure\obj\Debug\ImageService.Infrastructure.dll
+C:\Users\eyall\Desktop\ex2final\ImageService\ImageService.Infrastructure\obj\Debug\ImageService.Infrastructure.pdb
