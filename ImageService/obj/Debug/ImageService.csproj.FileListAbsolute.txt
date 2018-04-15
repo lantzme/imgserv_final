@@ -1,0 +1,26 @@
+c:\users\yuval\documents\visual studio 2015\Projects\ImageService\ImageService\bin\Debug\ImageService.exe.config
+c:\users\yuval\documents\visual studio 2015\Projects\ImageService\ImageService\bin\Debug\ImageService.exe
+c:\users\yuval\documents\visual studio 2015\Projects\ImageService\ImageService\bin\Debug\ImageService.pdb
+c:\users\yuval\documents\visual studio 2015\Projects\ImageService\ImageService\obj\Debug\ImageService.csprojResolveAssemblyReference.cache
+c:\users\yuval\documents\visual studio 2015\Projects\ImageService\ImageService\obj\Debug\ImageService.exe
+c:\users\yuval\documents\visual studio 2015\Projects\ImageService\ImageService\obj\Debug\ImageService.pdb
+c:\users\yuval\documents\visual studio 2015\Projects\ImageService\ImageService\bin\Debug\ImageService.Infrastructure.dll
+c:\users\yuval\documents\visual studio 2015\Projects\ImageService\ImageService\bin\Debug\ImageService.Logging.dll
+c:\users\yuval\documents\visual studio 2015\Projects\ImageService\ImageService\bin\Debug\ImageService.Infrastructure.pdb
+c:\users\yuval\documents\visual studio 2015\Projects\ImageService\ImageService\bin\Debug\ImageService.Logging.pdb
+c:\users\yuval\documents\visual studio 2015\Projects\ImageService\ImageService\obj\Debug\ImageService.ImageService.resources
+c:\users\yuval\documents\visual studio 2015\Projects\ImageService\ImageService\obj\Debug\ImageService.ProjectInstaller.resources
+c:\users\yuval\documents\visual studio 2015\Projects\ImageService\ImageService\obj\Debug\ImageService.csproj.GenerateResource.Cache
+C:\Users\eyall\Desktop\ex2final\ImageService\ImageService\bin\Debug\ImageService.exe.config
+C:\Users\eyall\Desktop\ex2final\ImageService\ImageService\obj\Debug\ImageService.exe
+C:\Users\eyall\Desktop\ex2final\ImageService\ImageService\obj\Debug\ImageService.pdb
+C:\Users\eyall\Desktop\ex2final\ImageService\ImageService\bin\Debug\ImageService.exe
+C:\Users\eyall\Desktop\ex2final\ImageService\ImageService\bin\Debug\ImageService.pdb
+C:\Users\eyall\Desktop\ex2final\ImageService\ImageService\bin\Debug\ImageService.Infrastructure.dll
+C:\Users\eyall\Desktop\ex2final\ImageService\ImageService\bin\Debug\ImageService.Logging.dll
+C:\Users\eyall\Desktop\ex2final\ImageService\ImageService\bin\Debug\ImageService.Infrastructure.pdb
+C:\Users\eyall\Desktop\ex2final\ImageService\ImageService\bin\Debug\ImageService.Logging.pdb
+C:\Users\eyall\Desktop\ex2final\ImageService\ImageService\obj\Debug\ImageService.csprojResolveAssemblyReference.cache
+C:\Users\eyall\Desktop\ex2final\ImageService\ImageService\obj\Debug\ImageService.ImageService.resources
+C:\Users\eyall\Desktop\ex2final\ImageService\ImageService\obj\Debug\ImageService.ProjectInstaller.resources
+C:\Users\eyall\Desktop\ex2final\ImageService\ImageService\obj\Debug\ImageService.csproj.GenerateResource.Cache
