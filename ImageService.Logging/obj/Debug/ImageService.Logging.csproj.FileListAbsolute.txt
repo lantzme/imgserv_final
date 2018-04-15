@@ -1,0 +1,8 @@
+c:\users\yuval\documents\visual studio 2015\Projects\ImageService\ImageService.Logging\bin\Debug\ImageService.Logging.dll
+c:\users\yuval\documents\visual studio 2015\Projects\ImageService\ImageService.Logging\bin\Debug\ImageService.Logging.pdb
+c:\users\yuval\documents\visual studio 2015\Projects\ImageService\ImageService.Logging\obj\Debug\ImageService.Logging.dll
+c:\users\yuval\documents\visual studio 2015\Projects\ImageService\ImageService.Logging\obj\Debug\ImageService.Logging.pdb
+C:\Users\eyall\Desktop\ex2final\ImageService\ImageService.Logging\bin\Debug\ImageService.Logging.dll
+C:\Users\eyall\Desktop\ex2final\ImageService\ImageService.Logging\bin\Debug\ImageService.Logging.pdb
+C:\Users\eyall\Desktop\ex2final\ImageService\ImageService.Logging\obj\Debug\ImageService.Logging.dll
+C:\Users\eyall\Desktop\ex2final\ImageService\ImageService.Logging\obj\Debug\ImageService.Logging.pdb
